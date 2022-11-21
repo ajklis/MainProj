@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dyskretna1", "Dyskretna1\Dy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{E37B09CC-05CA-4652-AA34-14FA9F57D354}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WykrywanieZaznaczen", "WykrywanieZaznaczen\WykrywanieZaznaczen.csproj", "{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E37B09CC-05CA-4652-AA34-14FA9F57D354}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E37B09CC-05CA-4652-AA34-14FA9F57D354}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E37B09CC-05CA-4652-AA34-14FA9F57D354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

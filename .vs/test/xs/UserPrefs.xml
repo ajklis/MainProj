@@ -1,17 +1,10 @@
-﻿<Properties StartupConfiguration="{CE2AAD20-714C-4FAC-9F45-B208BA195EBA}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}|Default">
   <MonoDevelop.Ide.ItemProperties.Rekurencja-test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Dyskretna1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Functions/Class1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WykrywanieZaznaczen/Program.cs">
     <Files>
       <File FileName="Functions/Class1.cs" Line="158" Column="9" />
       <File FileName="test/Program.cs" Line="17" Column="59" />
+      <File FileName="WykrywanieZaznaczen/Program.cs" Line="1" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,6 +16,7 @@
             </Node>
             <Node name="Rekurencja-test" expanded="True" />
             <Node name="test" expanded="True" />
+            <Node name="WykrywanieZaznaczen" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -31,4 +25,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.WykrywanieZaznaczen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Dyskretna1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -172,6 +172,7 @@ namespace Functions
     public static class ImageOperations
     {
         // bitmap and similar things
+        // !!!! NOT SUPPORTED ON MAC !!!
         public static Color AverageColor(string imagePath)
         {
             Bitmap bitmap = new Bitmap(imagePath);

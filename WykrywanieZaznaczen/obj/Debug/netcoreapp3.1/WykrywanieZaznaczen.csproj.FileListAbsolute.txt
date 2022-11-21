@@ -1,0 +1,16 @@
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.csproj.AssemblyReference.cache
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.AssemblyInfoInputs.cache
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.AssemblyInfo.cs
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.csproj.CoreCompileInputs.cache
+/Users/Adas/Projects/test/WykrywanieZaznaczen/bin/Debug/netcoreapp3.1/WykrywanieZaznaczen
+/Users/Adas/Projects/test/WykrywanieZaznaczen/bin/Debug/netcoreapp3.1/WykrywanieZaznaczen.deps.json
+/Users/Adas/Projects/test/WykrywanieZaznaczen/bin/Debug/netcoreapp3.1/WykrywanieZaznaczen.runtimeconfig.json
+/Users/Adas/Projects/test/WykrywanieZaznaczen/bin/Debug/netcoreapp3.1/WykrywanieZaznaczen.runtimeconfig.dev.json
+/Users/Adas/Projects/test/WykrywanieZaznaczen/bin/Debug/netcoreapp3.1/WykrywanieZaznaczen.dll
+/Users/Adas/Projects/test/WykrywanieZaznaczen/bin/Debug/netcoreapp3.1/WykrywanieZaznaczen.pdb
+/Users/Adas/Projects/test/WykrywanieZaznaczen/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.csproj.CopyComplete
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.dll
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.pdb
+/Users/Adas/Projects/test/WykrywanieZaznaczen/obj/Debug/netcoreapp3.1/WykrywanieZaznaczen.genruntimeconfig.cache
