@@ -1,0 +1,14 @@
+/Users/Adas/Projects/test/Dyskretna1/bin/Debug/netcoreapp3.1/Dyskretna1
+/Users/Adas/Projects/test/Dyskretna1/bin/Debug/netcoreapp3.1/Dyskretna1.deps.json
+/Users/Adas/Projects/test/Dyskretna1/bin/Debug/netcoreapp3.1/Dyskretna1.runtimeconfig.json
+/Users/Adas/Projects/test/Dyskretna1/bin/Debug/netcoreapp3.1/Dyskretna1.runtimeconfig.dev.json
+/Users/Adas/Projects/test/Dyskretna1/bin/Debug/netcoreapp3.1/Dyskretna1.dll
+/Users/Adas/Projects/test/Dyskretna1/bin/Debug/netcoreapp3.1/Dyskretna1.pdb
+/Users/Adas/Projects/test/Dyskretna1/obj/Debug/netcoreapp3.1/Dyskretna1.csproj.AssemblyReference.cache
+/Users/Adas/Projects/test/Dyskretna1/obj/Debug/netcoreapp3.1/Dyskretna1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Adas/Projects/test/Dyskretna1/obj/Debug/netcoreapp3.1/Dyskretna1.AssemblyInfoInputs.cache
+/Users/Adas/Projects/test/Dyskretna1/obj/Debug/netcoreapp3.1/Dyskretna1.AssemblyInfo.cs
+/Users/Adas/Projects/test/Dyskretna1/obj/Debug/netcoreapp3.1/Dyskretna1.csproj.CoreCompileInputs.cache
+/Users/Adas/Projects/test/Dyskretna1/obj/Debug/netcoreapp3.1/Dyskretna1.dll
+/Users/Adas/Projects/test/Dyskretna1/obj/Debug/netcoreapp3.1/Dyskretna1.pdb
+/Users/Adas/Projects/test/Dyskretna1/obj/Debug/netcoreapp3.1/Dyskretna1.genruntimeconfig.cache

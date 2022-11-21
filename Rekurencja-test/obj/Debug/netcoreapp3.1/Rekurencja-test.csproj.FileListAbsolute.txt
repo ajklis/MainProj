@@ -1,0 +1,14 @@
+/Users/Adas/Projects/test/Rekurencja-test/bin/Debug/netcoreapp3.1/Rekurencja-test
+/Users/Adas/Projects/test/Rekurencja-test/bin/Debug/netcoreapp3.1/Rekurencja-test.deps.json
+/Users/Adas/Projects/test/Rekurencja-test/bin/Debug/netcoreapp3.1/Rekurencja-test.runtimeconfig.json
+/Users/Adas/Projects/test/Rekurencja-test/bin/Debug/netcoreapp3.1/Rekurencja-test.runtimeconfig.dev.json
+/Users/Adas/Projects/test/Rekurencja-test/bin/Debug/netcoreapp3.1/Rekurencja-test.dll
+/Users/Adas/Projects/test/Rekurencja-test/bin/Debug/netcoreapp3.1/Rekurencja-test.pdb
+/Users/Adas/Projects/test/Rekurencja-test/obj/Debug/netcoreapp3.1/Rekurencja-test.csproj.AssemblyReference.cache
+/Users/Adas/Projects/test/Rekurencja-test/obj/Debug/netcoreapp3.1/Rekurencja-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Adas/Projects/test/Rekurencja-test/obj/Debug/netcoreapp3.1/Rekurencja-test.AssemblyInfoInputs.cache
+/Users/Adas/Projects/test/Rekurencja-test/obj/Debug/netcoreapp3.1/Rekurencja-test.AssemblyInfo.cs
+/Users/Adas/Projects/test/Rekurencja-test/obj/Debug/netcoreapp3.1/Rekurencja-test.csproj.CoreCompileInputs.cache
+/Users/Adas/Projects/test/Rekurencja-test/obj/Debug/netcoreapp3.1/Rekurencja-test.dll
+/Users/Adas/Projects/test/Rekurencja-test/obj/Debug/netcoreapp3.1/Rekurencja-test.pdb
+/Users/Adas/Projects/test/Rekurencja-test/obj/Debug/netcoreapp3.1/Rekurencja-test.genruntimeconfig.cache

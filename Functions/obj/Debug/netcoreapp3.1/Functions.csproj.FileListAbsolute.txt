@@ -1,0 +1,10 @@
+/Users/Adas/Projects/test/Functions/bin/Debug/netcoreapp3.1/Functions.deps.json
+/Users/Adas/Projects/test/Functions/bin/Debug/netcoreapp3.1/Functions.dll
+/Users/Adas/Projects/test/Functions/bin/Debug/netcoreapp3.1/Functions.pdb
+/Users/Adas/Projects/test/Functions/obj/Debug/netcoreapp3.1/Functions.csproj.AssemblyReference.cache
+/Users/Adas/Projects/test/Functions/obj/Debug/netcoreapp3.1/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Adas/Projects/test/Functions/obj/Debug/netcoreapp3.1/Functions.AssemblyInfoInputs.cache
+/Users/Adas/Projects/test/Functions/obj/Debug/netcoreapp3.1/Functions.AssemblyInfo.cs
+/Users/Adas/Projects/test/Functions/obj/Debug/netcoreapp3.1/Functions.csproj.CoreCompileInputs.cache
+/Users/Adas/Projects/test/Functions/obj/Debug/netcoreapp3.1/Functions.dll
+/Users/Adas/Projects/test/Functions/obj/Debug/netcoreapp3.1/Functions.pdb
