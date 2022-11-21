@@ -117,7 +117,7 @@ namespace Functions
 
     public static class StringFunctions
     { 
-        public static string[] ReturnWords(string input)
+        public static string[] ReturnAsArray(string input)
         {
             string[] output = new string[0];
             string temp = "";
