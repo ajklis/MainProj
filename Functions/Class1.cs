@@ -8,6 +8,7 @@
 
 using System;
 using System.Drawing;
+using System.IO;
 
 namespace Functions
 {
@@ -141,7 +142,31 @@ namespace Functions
 
     public static class FileOperations
     {
+        /// <summary>
+        /// Reads whole file at path
+        /// </summary>
+        /// <param name="path"></param>
+        /// <returns>string</returns>
+        public static string ReadAll(string path)
+        {
+            StreamReader sr = new StreamReader(path);
+            string output = sr.ReadToEnd();
+            sr.Close();
+            return output;
+        }
 
+        /// <summary>
+        /// Reads whole file at path, white symbols separate words that are put into array
+        /// </summary>
+        /// <param name="path"></param>
+        /// <returns>string[]</returns>
+        public static string[] ReadAll_(string path)
+        {
+            StreamReader sr = new StreamReader(path);
+            string output = sr.ReadToEnd();
+            sr.Close();
+            return StringFunctions.ReturnAsArray(output);
+        }
     }
 
     public static class ImageOperations
