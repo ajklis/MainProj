@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Func
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WykrywanieZaznaczen", "WykrywanieZaznaczen\WykrywanieZaznaczen.csproj", "{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WykrywanieZaznaczen_NET6", "WykrywanieZaznaczen_NET6\WykrywanieZaznaczen_NET6.csproj", "{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

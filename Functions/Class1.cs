@@ -198,11 +198,23 @@ namespace Functions
 
     public static class BinaryOperations
     {
-        public static string ReturnBinary(int n)
+        public static string ReturnBinary(uint n)
         {
             int n_size = 32;
             string output = "";
             for (int i = 0; i < n_size; i++) 
+            {
+                output = (n & 1) + output;
+                n = n >> 1;
+            }
+            return output;
+        }
+
+        public static string ReturnBinaryWithoutZeros(uint n)
+        {
+            int n_size = 32;
+            string output = "";
+            for (int i = 0; i < n_size && n != 0; i++)
             {
                 output = (n & 1) + output;
                 n = n >> 1;

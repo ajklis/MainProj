@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/WykrywanieZaznaczen_NET6.csproj": {}
+  },
+  "projects": {
+    "/Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/WykrywanieZaznaczen_NET6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/WykrywanieZaznaczen_NET6.csproj",
+        "projectName": "WykrywanieZaznaczen_NET6",
+        "projectPath": "/Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/WykrywanieZaznaczen_NET6.csproj",
+        "packagesPath": "/Users/Adas/.nuget/packages/",
+        "outputPath": "/Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Adas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "runtime.osx.10.10-x64.CoreCompat.System.Drawing": {
+              "target": "Package",
+              "version": "[6.0.5.128, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

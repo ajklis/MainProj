@@ -13,10 +13,9 @@ namespace test
     {
         static void Main(string[] args)
         {
-            string text = "Ala ma \nkota";
-            string[] words = StringFunctions.ReturnAsArray(text);
-            foreach (string s in words)
-                Console.WriteLine(s);
+            uint n = 5;
+            Console.WriteLine(BinaryOperations.ReturnBinary(n));
+            Console.WriteLine(BinaryOperations.ReturnBinaryWithoutZeros(n));
         }
     }
 }

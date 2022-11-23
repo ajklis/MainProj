@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vtqum0GG/hCjnkqIaUMIx6xq5pmFKEL3sQuUBM4hxy8efUY6ZJb0MPmi5ji4zYjp0oUfUbXF7eEr/7yQDSY4Yw==",
+  "dgSpecHash": "Dex0/Up0tCZr0Qi+BUDDdp9vkGyCc1TsSCC4imIMuIXzE1Gz527/r7biOi+FPPOl4lM4FhIsmeiExQIktvyAZQ==",
   "success": true,
   "projectFilePath": "/Users/Adas/Projects/test/test/test.csproj",
   "expectedPackageFiles": [
+    "/Users/Adas/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/6.0.5.128/runtime.osx.10.10-x64.corecompat.system.drawing.6.0.5.128.nupkg.sha512",
     "/Users/Adas/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
   ],
   "logs": []

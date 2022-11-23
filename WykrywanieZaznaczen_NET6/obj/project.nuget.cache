@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLOuC/j7NWp8N6pYykx9MDmTvsBMf01DgFFEOiH+ENBGXVLusux7gU9NqvOCee3OB1vJ5Q8sFE0GHmGyjtbkuQ==",
+  "success": true,
+  "projectFilePath": "/Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/WykrywanieZaznaczen_NET6.csproj",
+  "expectedPackageFiles": [
+    "/Users/Adas/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/Adas/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/6.0.5.128/runtime.osx.10.10-x64.corecompat.system.drawing.6.0.5.128.nupkg.sha512",
+    "/Users/Adas/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

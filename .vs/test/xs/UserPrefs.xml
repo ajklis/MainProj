@@ -1,5 +1,6 @@
 ﻿<Properties StartupConfiguration="{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}|Default">
   <MonoDevelop.Ide.ItemProperties.Rekurencja-test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.WykrywanieZaznaczen__NET6 FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="WykrywanieZaznaczen/Program.cs">
     <Files>
       <File FileName="Functions/Class1.cs" Line="158" Column="9" />

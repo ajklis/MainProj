@@ -42,9 +42,9 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
-            "System.Drawing.Primitives": {
+            "runtime.osx.10.10-x64.CoreCompat.System.Drawing": {
               "target": "Package",
-              "version": "[4.3.0, )"
+              "version": "[6.0.5.128, )"
             }
           },
           "imports": [

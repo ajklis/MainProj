@@ -2,6 +2,101 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "runtime.osx.10.10-x64.CoreCompat.System.Drawing/6.0.5.128": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/osx-x64/native/libX11.6.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libXau.6.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libXdmcp.6.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libXext.6.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libXrender.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libcairo.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libfontconfig.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libfreetype.6.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libgdiplus.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libgdiplus.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libgif.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libglib-2.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libintl.8.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libjpeg.9.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libpcre.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libpixman-1.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libpng16.16.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libtiff.5.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libxcb-render.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libxcb-shm.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libxcb.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          }
+        }
+      },
       "System.Drawing.Common/7.0.0": {
         "type": "package",
         "compile": {
@@ -17,6 +112,39 @@
     }
   },
   "libraries": {
+    "runtime.osx.10.10-x64.CoreCompat.System.Drawing/6.0.5.128": {
+      "sha512": "rjnyMb0Tk3k4DB5YeEeUBg9jbOY+VrT84o8Npkxayv2Vz1qSqgCfLATbvZ1oCuplSqHLINsSRMvkDup39pTIPw==",
+      "type": "package",
+      "path": "runtime.osx.10.10-x64.corecompat.system.drawing/6.0.5.128",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll",
+        "runtime.osx.10.10-x64.corecompat.system.drawing.6.0.5.128.nupkg.sha512",
+        "runtime.osx.10.10-x64.corecompat.system.drawing.nuspec",
+        "runtimes/osx-x64/native/libX11.6.dylib",
+        "runtimes/osx-x64/native/libXau.6.dylib",
+        "runtimes/osx-x64/native/libXdmcp.6.dylib",
+        "runtimes/osx-x64/native/libXext.6.dylib",
+        "runtimes/osx-x64/native/libXrender.1.dylib",
+        "runtimes/osx-x64/native/libcairo.2.dylib",
+        "runtimes/osx-x64/native/libfontconfig.1.dylib",
+        "runtimes/osx-x64/native/libfreetype.6.dylib",
+        "runtimes/osx-x64/native/libgdiplus.0.dylib",
+        "runtimes/osx-x64/native/libgdiplus.dylib",
+        "runtimes/osx-x64/native/libgif.dylib",
+        "runtimes/osx-x64/native/libglib-2.0.0.dylib",
+        "runtimes/osx-x64/native/libintl.8.dylib",
+        "runtimes/osx-x64/native/libjpeg.9.dylib",
+        "runtimes/osx-x64/native/libpcre.1.dylib",
+        "runtimes/osx-x64/native/libpixman-1.0.dylib",
+        "runtimes/osx-x64/native/libpng16.16.dylib",
+        "runtimes/osx-x64/native/libtiff.5.dylib",
+        "runtimes/osx-x64/native/libxcb-render.0.dylib",
+        "runtimes/osx-x64/native/libxcb-shm.0.dylib",
+        "runtimes/osx-x64/native/libxcb.1.dylib"
+      ]
+    },
     "System.Drawing.Common/7.0.0": {
       "sha512": "KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
       "type": "package",
@@ -57,7 +185,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "System.Drawing.Common >= 7.0.0"
+      "System.Drawing.Common >= 7.0.0",
+      "runtime.osx.10.10-x64.CoreCompat.System.Drawing >= 6.0.5.128"
     ]
   },
   "packageFolders": {
@@ -100,6 +229,10 @@
           "System.Drawing.Common": {
             "target": "Package",
             "version": "[7.0.0, )"
+          },
+          "runtime.osx.10.10-x64.CoreCompat.System.Drawing": {
+            "target": "Package",
+            "version": "[6.0.5.128, )"
           }
         },
         "imports": [

@@ -6,8 +6,10 @@
 
   <ItemGroup>
     <None Remove="System.Drawing.Common" />
+    <None Remove="runtime.osx.10.10-x64.CoreCompat.System.Drawing" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+    <PackageReference Include="runtime.osx.10.10-x64.CoreCompat.System.Drawing" Version="6.0.5.128" />
   </ItemGroup>
 </Project>
