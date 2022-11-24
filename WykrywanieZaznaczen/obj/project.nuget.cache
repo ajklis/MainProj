@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+jPDZL/AgdaHo3Pu5viIDCHwYGaZ6L+AhaoqWyAwm0AyYqhsMPKpbb5oMKuuWffGV276ZMLT7KMdoeyT17esig==",
+  "dgSpecHash": "9iK2rnvOykJ3JsE6RVN6vZK4ULeQKAOgjUilF8dPkA6Jo1SoX0QBgBT7kLlwNDbEsgHqH15jizykSWzQHzEJbQ==",
   "success": true,
   "projectFilePath": "/Users/Adas/Projects/test/WykrywanieZaznaczen/WykrywanieZaznaczen.csproj",
   "expectedPackageFiles": [
-    "/Users/Adas/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/6.0.5.128/runtime.osx.10.10-x64.corecompat.system.drawing.6.0.5.128.nupkg.sha512",
-    "/Users/Adas/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+    "/Users/Adas/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/Adas/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/Adas/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/5.8.64/runtime.osx.10.10-x64.corecompat.system.drawing.5.8.64.nupkg.sha512",
+    "/Users/Adas/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

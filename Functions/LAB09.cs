@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Funkcje
+namespace Funkcje_LAB09
 {
     public class OperacjeBitowe
     {

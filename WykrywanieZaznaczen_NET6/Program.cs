@@ -2,6 +2,9 @@
 
 using System;
 using System.Drawing;
+//using Microsoft.Maui.Graphics;
+
+//System.AppContext.SetSwitch("System.Drawing.EnableUnixSupport", true);
 
 namespace WykrywanieZaznaczen
 {
@@ -36,10 +39,14 @@ namespace WykrywanieZaznaczen
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ladowanie obrazkow");
+
             string path = "obrazek.png";
             string path_ = "obrazek_zaz.png";
             Bitmap obrazek = new Bitmap(path);
             Bitmap obrazek_ = new Bitmap(path_);
+
+            Console.WriteLine("zaladowano obrazki");
 
             for (int i = 0; i < obrazek.Width; i++)
             {
@@ -55,6 +62,7 @@ namespace WykrywanieZaznaczen
                     }
                 }
             }
+            Console.WriteLine("koniec programu");
         }
     }
 }

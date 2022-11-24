@@ -1,11 +1,10 @@
-﻿<Properties StartupConfiguration="{B978FDB3-F069-4DF6-A0CC-A82E6356AAF6}|Default">
+﻿<Properties StartupConfiguration="{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}|Default">
   <MonoDevelop.Ide.ItemProperties.Rekurencja-test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.WykrywanieZaznaczen__NET6 FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WykrywanieZaznaczen/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.WykrywanieZaznaczen__NET6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WykrywanieZaznaczen_NET6/Program.cs">
     <Files>
-      <File FileName="Functions/Class1.cs" Line="158" Column="9" />
-      <File FileName="test/Program.cs" Line="17" Column="59" />
-      <File FileName="WykrywanieZaznaczen/Program.cs" Line="1" Column="4" />
+      <File FileName="Functions/Class1.cs" Line="217" Column="49" />
+      <File FileName="WykrywanieZaznaczen_NET6/Program.cs" Line="42" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,6 +17,13 @@
             <Node name="Rekurencja-test" expanded="True" />
             <Node name="test" expanded="True" />
             <Node name="WykrywanieZaznaczen" expanded="True" />
+            <Node name="WykrywanieZaznaczen_NET6" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="System.Drawing.Common" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

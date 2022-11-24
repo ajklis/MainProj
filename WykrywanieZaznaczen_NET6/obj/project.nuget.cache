@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iLOuC/j7NWp8N6pYykx9MDmTvsBMf01DgFFEOiH+ENBGXVLusux7gU9NqvOCee3OB1vJ5Q8sFE0GHmGyjtbkuQ==",
+  "dgSpecHash": "9xvAuUgyfP9VYqMsAsi5ajQAM/ldsuw9MeBkJ4i4/99mMELd/m6mNI/Mb6ZX9SB1QTfHvm/z9tT32a5JIygq8Q==",
   "success": true,
   "projectFilePath": "/Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/WykrywanieZaznaczen_NET6.csproj",
   "expectedPackageFiles": [
+    "/Users/Adas/.nuget/packages/microsoft.maui.graphics/7.0.49/microsoft.maui.graphics.7.0.49.nupkg.sha512",
     "/Users/Adas/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "/Users/Adas/.nuget/packages/runtime.osx.10.10-x64.corecompat.system.drawing/6.0.5.128/runtime.osx.10.10-x64.corecompat.system.drawing.6.0.5.128.nupkg.sha512",
-    "/Users/Adas/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+    "/Users/Adas/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/Adas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
