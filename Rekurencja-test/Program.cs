@@ -6,13 +6,7 @@ namespace Rekurencja_test
     {
         static void Main(string[] args)
         {
-            string line;
-            while (true)
-            {
-                Console.Write("Podaj n: ");
-                line = Console.ReadLine();
-                Console.WriteLine(func(Convert.ToInt32(line)));
-            }
+            
         }
 
         //suma wszystkich liczb mniejszych od n podzielnych przez 3 i niepodzielnych przez 7

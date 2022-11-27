@@ -13,10 +13,12 @@ namespace test
     {
         static void Main(string[] args)
         {
-            uint n = 5;
-            Console.WriteLine(BinaryOperations.ReturnBinary(n));
-            Console.WriteLine(BinaryOperations.ReturnBinaryWithoutZeros(n));
+            CustomList<int> List = new CustomList<int>(new int[] {1,2,3,4});
+            List.ShowList();
+
         }
+
+        
     }
 }
 

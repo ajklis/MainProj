@@ -40,3 +40,4 @@
 /Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/obj/Debug/net6.0/WykrywanieZaznaczen_NET6.pdb
 /Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/obj/Debug/net6.0/WykrywanieZaznaczen_NET6.genruntimeconfig.cache
 /Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/obj/Debug/net6.0/ref/WykrywanieZaznaczen_NET6.dll
+/Users/Adas/Projects/test/WykrywanieZaznaczen_NET6/bin/Debug/net6.0/Microsoft.Maui.Graphics.dll
