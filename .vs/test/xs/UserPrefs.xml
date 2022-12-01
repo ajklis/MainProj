@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{CE2AAD20-714C-4FAC-9F45-B208BA195EBA}|Default">
+﻿<Properties StartupConfiguration="{0C0C4457-695C-409A-9960-698147960F37}|Default">
   <MonoDevelop.Ide.ItemProperties.Rekurencja-test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.WykrywanieZaznaczen__NET6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="WykrywanieZaznaczen_NET6/Program.cs">
@@ -38,5 +38,6 @@
   <MonoDevelop.Ide.ItemProperties.WykrywanieZaznaczen PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Dyskretna1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RekurencyjneKolorowanie PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

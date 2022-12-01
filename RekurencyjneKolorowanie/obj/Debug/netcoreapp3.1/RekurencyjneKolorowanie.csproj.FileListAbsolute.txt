@@ -1,0 +1,14 @@
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/bin/Debug/netcoreapp3.1/RekurencyjneKolorowanie
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/bin/Debug/netcoreapp3.1/RekurencyjneKolorowanie.deps.json
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/bin/Debug/netcoreapp3.1/RekurencyjneKolorowanie.runtimeconfig.json
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/bin/Debug/netcoreapp3.1/RekurencyjneKolorowanie.runtimeconfig.dev.json
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/bin/Debug/netcoreapp3.1/RekurencyjneKolorowanie.dll
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/bin/Debug/netcoreapp3.1/RekurencyjneKolorowanie.pdb
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/obj/Debug/netcoreapp3.1/RekurencyjneKolorowanie.csproj.AssemblyReference.cache
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/obj/Debug/netcoreapp3.1/RekurencyjneKolorowanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/obj/Debug/netcoreapp3.1/RekurencyjneKolorowanie.AssemblyInfoInputs.cache
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/obj/Debug/netcoreapp3.1/RekurencyjneKolorowanie.AssemblyInfo.cs
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/obj/Debug/netcoreapp3.1/RekurencyjneKolorowanie.csproj.CoreCompileInputs.cache
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/obj/Debug/netcoreapp3.1/RekurencyjneKolorowanie.dll
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/obj/Debug/netcoreapp3.1/RekurencyjneKolorowanie.pdb
+/Users/Adas/Projects/test/RekurencyjneKolorowanie/obj/Debug/netcoreapp3.1/RekurencyjneKolorowanie.genruntimeconfig.cache

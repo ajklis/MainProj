@@ -16,6 +16,7 @@ namespace test
             CustomList<int> List = new CustomList<int>(new int[] {1,2,3,4});
             List.ShowList();
 
+            
         }
 
         

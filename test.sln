@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WykrywanieZaznaczen", "Wykr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WykrywanieZaznaczen_NET6", "WykrywanieZaznaczen_NET6\WykrywanieZaznaczen_NET6.csproj", "{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekurencyjneKolorowanie", "RekurencyjneKolorowanie\RekurencyjneKolorowanie.csproj", "{0C0C4457-695C-409A-9960-698147960F37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E1F746B-53B1-4AFD-9C85-A3BBFDDDB514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0C4457-695C-409A-9960-698147960F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0C4457-695C-409A-9960-698147960F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0C4457-695C-409A-9960-698147960F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0C4457-695C-409A-9960-698147960F37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
