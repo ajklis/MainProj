@@ -1,0 +1,14 @@
+/Users/Adas/Projects/test/Szyfrowanie/bin/Debug/netcoreapp3.1/Szyfrowanie
+/Users/Adas/Projects/test/Szyfrowanie/bin/Debug/netcoreapp3.1/Szyfrowanie.deps.json
+/Users/Adas/Projects/test/Szyfrowanie/bin/Debug/netcoreapp3.1/Szyfrowanie.runtimeconfig.json
+/Users/Adas/Projects/test/Szyfrowanie/bin/Debug/netcoreapp3.1/Szyfrowanie.runtimeconfig.dev.json
+/Users/Adas/Projects/test/Szyfrowanie/bin/Debug/netcoreapp3.1/Szyfrowanie.dll
+/Users/Adas/Projects/test/Szyfrowanie/bin/Debug/netcoreapp3.1/Szyfrowanie.pdb
+/Users/Adas/Projects/test/Szyfrowanie/obj/Debug/netcoreapp3.1/Szyfrowanie.csproj.AssemblyReference.cache
+/Users/Adas/Projects/test/Szyfrowanie/obj/Debug/netcoreapp3.1/Szyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Adas/Projects/test/Szyfrowanie/obj/Debug/netcoreapp3.1/Szyfrowanie.AssemblyInfoInputs.cache
+/Users/Adas/Projects/test/Szyfrowanie/obj/Debug/netcoreapp3.1/Szyfrowanie.AssemblyInfo.cs
+/Users/Adas/Projects/test/Szyfrowanie/obj/Debug/netcoreapp3.1/Szyfrowanie.csproj.CoreCompileInputs.cache
+/Users/Adas/Projects/test/Szyfrowanie/obj/Debug/netcoreapp3.1/Szyfrowanie.dll
+/Users/Adas/Projects/test/Szyfrowanie/obj/Debug/netcoreapp3.1/Szyfrowanie.pdb
+/Users/Adas/Projects/test/Szyfrowanie/obj/Debug/netcoreapp3.1/Szyfrowanie.genruntimeconfig.cache

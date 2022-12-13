@@ -1,10 +1,13 @@
-﻿<Properties StartupConfiguration="{0C0C4457-695C-409A-9960-698147960F37}|Default">
+﻿<Properties StartupConfiguration="{D00798C6-4C1B-4F4E-A1AF-4FF7F634B0A0}|Default">
   <MonoDevelop.Ide.ItemProperties.Rekurencja-test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.WykrywanieZaznaczen__NET6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WykrywanieZaznaczen_NET6/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Szyfrowanie/Program.cs">
     <Files>
       <File FileName="Functions/Class1.cs" Line="217" Column="49" />
-      <File FileName="WykrywanieZaznaczen_NET6/Program.cs" Line="5" Column="3" />
+      <File FileName="Functions/CustomList.cs" Line="341" Column="39" />
+      <File FileName="test/Program.cs" Line="19" Column="13" />
+      <File FileName="RekurencyjneKolorowanie/Program.cs" Line="37" Column="63" />
+      <File FileName="Szyfrowanie/Program.cs" Line="57" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,6 +18,8 @@
               <Node name="Dependencies" expanded="True" />
             </Node>
             <Node name="Rekurencja-test" expanded="True" />
+            <Node name="RekurencyjneKolorowanie" expanded="True" />
+            <Node name="Szyfrowanie" expanded="True" />
             <Node name="test" expanded="True" />
             <Node name="WykrywanieZaznaczen" expanded="True" />
             <Node name="WykrywanieZaznaczen_NET6" expanded="True">
@@ -38,6 +43,7 @@
   <MonoDevelop.Ide.ItemProperties.WykrywanieZaznaczen PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Dyskretna1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.RekurencyjneKolorowanie PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Szyfrowanie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RekurencyjneKolorowanie PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
